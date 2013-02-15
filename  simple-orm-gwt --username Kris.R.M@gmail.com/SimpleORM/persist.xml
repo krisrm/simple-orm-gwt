@@ -1,0 +1,14 @@
+<config>
+
+<mapping-class>test.ORMappings</mapping-class>
+<dialect-class>com.gmles.simpleorm.dialects.PGSQL</dialect-class>
+<auto-complete-output>src/com/gmles/simpleorm/s.java</auto-complete-output>
+<auto-complete-package>com.gmles.simpleorm</auto-complete-package>
+<driver-class>org.postgresql.Driver</driver-class>
+<jdbc>
+<url>jdbc:postgresql://localhost/ormtest</url>
+<username>postgres</username>
+<password>rootpass</password>
+</jdbc>
+
+</config>
