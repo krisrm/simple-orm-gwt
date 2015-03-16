@@ -1,0 +1,1 @@
+A simple object relational management system written in Java by Logan Gilmour and Kris Mitchell. Designed to overcome the complexities and lazy-loading problems of using Hibernate in a GWT project.
